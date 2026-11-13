@@ -1,0 +1,6 @@
+{
+  "name": "Medivora AI - Free AI Health Companion & Community Care",
+  "description": "Free AI-powered healthcare assistant and community health platform in Punjabi, Hindi, and English with symptom triage, lab report decoder, medical camps, first aid, and vitals tracking.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
